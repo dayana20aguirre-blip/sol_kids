@@ -1,0 +1,280 @@
+¡Muy bien!
+¡Guau, qué genial!
+¡Eso es!
+¡Lo hiciste increíble!
+¡Chócalas!
+¡Bonito dibujo!
+¡Guardado! Qué bonito
+¡Casi!
+¡Esa no!
+¡Casi! Cuenta otra vez
+¡Casi! Escucha otra vez
+¡Hola!
+¡Hola! Soy Sol
+¡Hola! Soy Nieves
+¡Sol!
+¡Nieves!
+¡Ganaste!
+¡A colorear!
+¡Corre y deletrea!
+¡Corre y suma!
+¡Cuida al perrito!
+¡Bienvenido a la granja! Toca los animales
+Vamos a armar palabras
+Vamos a trazar números
+¡Vamos a contar!
+Nivel uno. Encuentra las parejas
+Nivel uno. ¿Cuánto suman?
+Elige un juego
+Elige una letra
+Elige un video
+Elige una canción
+Toca un animal
+Arma la imagen tocando dos piezas
+cero
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
+diez
+once
+doce
+trece
+catorce
+quince
+dieciséis
+diecisiete
+dieciocho
+diecinueve
+veinte
+¡Hay uno!
+¡Hay dos!
+¡Hay tres!
+¡Hay cuatro!
+¡Hay cinco!
+¡Hay seis!
+¡Hay siete!
+¡Hay ocho!
+¡Hay nueve!
+¡Hay diez!
+¡Lo lograste! El número cero
+¡Lo lograste! El número uno
+¡Lo lograste! El número dos
+¡Lo lograste! El número tres
+¡Lo lograste! El número cuatro
+¡Lo lograste! El número cinco
+¡Lo lograste! El número seis
+¡Lo lograste! El número siete
+¡Lo lograste! El número ocho
+¡Lo lograste! El número nueve
+perro
+gato
+vaca
+cerdo
+rana
+pato
+caballo
+elefante
+león
+oso
+guau guau
+miau
+muu
+oink oink
+croac croac
+cuac cuac
+iiiih
+praaa
+grrr
+grr grr
+el perro hace guau guau
+el gato hace miau
+la vaca hace muu
+el cerdo hace oink oink
+la rana hace croac croac
+el pato hace cuac cuac
+el caballo hace iiiih
+el elefante hace praaa
+el león hace grrr
+el oso hace grr grr
+¿Quién hace guau guau?
+¿Quién hace miau?
+¿Quién hace muu?
+¿Quién hace oink oink?
+¿Quién hace croac croac?
+¿Quién hace cuac cuac?
+¿Quién hace iiiih?
+¿Quién hace praaa?
+¿Quién hace grrr?
+¿Quién hace grr grr?
+¡Sí! el perro
+¡Sí! el gato
+¡Sí! la vaca
+¡Sí! el cerdo
+¡Sí! la rana
+¡Sí! el pato
+¡Sí! el caballo
+¡Sí! el elefante
+¡Sí! el león
+¡Sí! el oso
+SOL
+OSO
+PAN
+PATO
+GATO
+LUNA
+SAPO
+PALO
+FLOR
+MAMA
+¡SOL!
+¡OSO!
+¡PAN!
+¡PATO!
+¡GATO!
+¡LUNA!
+¡SAPO!
+¡PALO!
+¡FLOR!
+¡MAMA!
+¡Muy bien! Armaste SOL
+¡Muy bien! Armaste OSO
+¡Muy bien! Armaste PAN
+¡Muy bien! Armaste PATO
+¡Muy bien! Armaste GATO
+¡Muy bien! Armaste LUNA
+¡Muy bien! Armaste SAPO
+¡Muy bien! Armaste PALO
+¡Muy bien! Armaste FLOR
+¡Muy bien! Armaste MAMA
+¡Vamos a aprender la letra A!
+A, la a de abeja
+¡Lo lograste! La letra A
+¡Muy bien! Aprendiste la letra A. ¡Eres increíble!
+¡Vamos a aprender la letra B!
+B, la b de barco
+¡Lo lograste! La letra B
+¡Muy bien! Aprendiste la letra B. ¡Eres increíble!
+¡Vamos a aprender la letra C!
+C, la c de casa
+¡Lo lograste! La letra C
+¡Muy bien! Aprendiste la letra C. ¡Eres increíble!
+¡Vamos a aprender la letra D!
+D, la d de dado
+¡Lo lograste! La letra D
+¡Muy bien! Aprendiste la letra D. ¡Eres increíble!
+¡Vamos a aprender la letra E!
+E, la e de elefante
+¡Lo lograste! La letra E
+¡Muy bien! Aprendiste la letra E. ¡Eres increíble!
+¡Vamos a aprender la letra F!
+F, la f de flor
+¡Lo lograste! La letra F
+¡Muy bien! Aprendiste la letra F. ¡Eres increíble!
+¡Vamos a aprender la letra G!
+G, la g de gato
+¡Lo lograste! La letra G
+¡Muy bien! Aprendiste la letra G. ¡Eres increíble!
+¡Vamos a aprender la letra H!
+H, la h de helado
+¡Lo lograste! La letra H
+¡Muy bien! Aprendiste la letra H. ¡Eres increíble!
+¡Vamos a aprender la letra I!
+I, la i de isla
+¡Lo lograste! La letra I
+¡Muy bien! Aprendiste la letra I. ¡Eres increíble!
+¡Vamos a aprender la letra J!
+J, la j de jirafa
+¡Lo lograste! La letra J
+¡Muy bien! Aprendiste la letra J. ¡Eres increíble!
+¡Vamos a aprender la letra K!
+K, la k de koala
+¡Lo lograste! La letra K
+¡Muy bien! Aprendiste la letra K. ¡Eres increíble!
+¡Vamos a aprender la letra L!
+L, la l de luna
+¡Lo lograste! La letra L
+¡Muy bien! Aprendiste la letra L. ¡Eres increíble!
+¡Vamos a aprender la letra M!
+M, la m de manzana
+¡Lo lograste! La letra M
+¡Muy bien! Aprendiste la letra M. ¡Eres increíble!
+¡Vamos a aprender la letra N!
+N, la n de nube
+¡Lo lograste! La letra N
+¡Muy bien! Aprendiste la letra N. ¡Eres increíble!
+¡Vamos a aprender la letra Ñ!
+Ñ, la ñ de ñandú
+¡Lo lograste! La letra Ñ
+¡Muy bien! Aprendiste la letra Ñ. ¡Eres increíble!
+¡Vamos a aprender la letra O!
+O, la o de oso
+¡Lo lograste! La letra O
+¡Muy bien! Aprendiste la letra O. ¡Eres increíble!
+¡Vamos a aprender la letra P!
+P, la p de pato
+¡Lo lograste! La letra P
+¡Muy bien! Aprendiste la letra P. ¡Eres increíble!
+¡Vamos a aprender la letra Q!
+Q, la q de queso
+¡Lo lograste! La letra Q
+¡Muy bien! Aprendiste la letra Q. ¡Eres increíble!
+¡Vamos a aprender la letra R!
+R, la r de ratón
+¡Lo lograste! La letra R
+¡Muy bien! Aprendiste la letra R. ¡Eres increíble!
+¡Vamos a aprender la letra S!
+S, la s de sol
+¡Lo lograste! La letra S
+¡Muy bien! Aprendiste la letra S. ¡Eres increíble!
+¡Vamos a aprender la letra T!
+T, la t de tortuga
+¡Lo lograste! La letra T
+¡Muy bien! Aprendiste la letra T. ¡Eres increíble!
+¡Vamos a aprender la letra U!
+U, la u de uvas
+¡Lo lograste! La letra U
+¡Muy bien! Aprendiste la letra U. ¡Eres increíble!
+¡Vamos a aprender la letra V!
+V, la v de vaca
+¡Lo lograste! La letra V
+¡Muy bien! Aprendiste la letra V. ¡Eres increíble!
+¡Vamos a aprender la letra W!
+W, la w de wafle
+¡Lo lograste! La letra W
+¡Muy bien! Aprendiste la letra W. ¡Eres increíble!
+¡Vamos a aprender la letra X!
+X, la x de xilófono
+¡Lo lograste! La letra X
+¡Muy bien! Aprendiste la letra X. ¡Eres increíble!
+¡Vamos a aprender la letra Y!
+Y, la y de yoyo
+¡Lo lograste! La letra Y
+¡Muy bien! Aprendiste la letra Y. ¡Eres increíble!
+¡Vamos a aprender la letra Z!
+Z, la z de zapato
+¡Lo lograste! La letra Z
+¡Muy bien! Aprendiste la letra Z. ¡Eres increíble!
+¡Nivel 1!
+¡Nivel 2!
+¡Nivel 3!
+¡Nivel 4!
+¡Nivel 5!
+¡Nivel 1 completado! ¡Increíble!
+¡Nivel 2 completado! ¡Increíble!
+¡Nivel 3 completado! ¡Increíble!
+¡Nivel 4 completado! ¡Increíble!
+¡Nivel 5 completado! ¡Increíble!
+¡Muy bien! Armaste el rompecabezas
+¡Muy bien! Saludaste a todos los animales de la granja
+Para 1 a 2 años
+Para 3 a 4 años
+Para 5 a 6 años
+Para 7 a 8 años
+Videos musicales
+Canciones
